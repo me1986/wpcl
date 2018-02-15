@@ -8,7 +8,7 @@ Text Domain: wp-content-crawler
 Version: 1.6.1
 Author URI: http://turgutsaricam.com
 */
-//hamid test
+//hamid test reza
 require 'app/vendor/autoload.php';
 
 // Define a path to be able to get the plugin directory. By this way, we'll be able to get the path no matter what names
