@@ -11,3 +11,5 @@ post_date: 2019-02-04 14:33:31
 [wtbp-table-press id=1]
 
 [ninja_tables id="457"]
+
+[Product_Table ID='460' name='prdtbl5']
